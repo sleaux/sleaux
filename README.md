@@ -1,5 +1,3 @@
-## Hi there 👋
-
 I am a software engineer with interests in:
 - operating systems
 - vulnerability research

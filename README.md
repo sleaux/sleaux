@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+Software engineer with interests in
+- Operating Systems
+- Vulnerability Research
+- Fuzzing
+
 <!--
 **sleaux/sleaux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,5 +1,5 @@
 
-I am a software engineer interested in:  
+I am a programmer interested in:  
 &nbsp;&nbsp;🖥️ operating systems  
 &nbsp;&nbsp;🕵️ vulnerability research  
 &nbsp;&nbsp;🐇 fuzzing  

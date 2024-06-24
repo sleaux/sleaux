@@ -1,9 +1,9 @@
-<pre>
-I am a software engineer with interests in:
- 🖥️ operating systems  
- 🕵️ vulnerability research  
- 🐇 fuzzing  
-</pre>
+
+I am a software engineer interested in:  
+&nbsp;&nbsp;🖥️ operating systems  
+&nbsp;&nbsp;🕵️ vulnerability research  
+&nbsp;&nbsp;🐇 fuzzing  
+
 
 <!--
 **sleaux/sleaux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
